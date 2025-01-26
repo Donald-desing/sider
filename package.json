@@ -1,0 +1,11 @@
+{
+  "name": "question-answer-site",
+  "version": "1.0.0",
+  "description": "Root package.json for the question and answer site",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "build": "cd frontend && npm run build"
+  },
+  "author": "Donald-desing",
+  "license": "ISC"
+}
