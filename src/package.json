@@ -1,7 +1,7 @@
 {
-  "name": "question-answer-site-frontend",
+  "name": "sider-frontend",
   "version": "1.0.0",
-  "description": "Frontend for the question and answer site",
+  "description": "Frontend for the sider project",
   "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
