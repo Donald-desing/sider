@@ -1,0 +1,24 @@
+{
+  "name": "sider-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the sider project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "NODE_OPTIONS=--max_old_space_size=4096 react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1"
+  },
+  "author": "Donald-desing",
+  "license": "ISC"
+}
