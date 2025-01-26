@@ -4,7 +4,8 @@
   "description": "Root package.json for the sider project",
   "scripts": {
     "start": "cd backend && npm start",
-    "build": "cd frontend && npm run build"
+    "build": "cd frontend && npm run build",
+    "build:frontend": "NODE_OPTIONS=--max_old_space_size=4096 cd frontend && npm run build"
   },
   "author": "Donald-desing",
   "license": "ISC"
