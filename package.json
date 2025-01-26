@@ -1,7 +1,7 @@
 {
-  "name": "question-answer-site",
+  "name": "sider",
   "version": "1.0.0",
-  "description": "Root package.json for the question and answer site",
+  "description": "Root package.json for the sider project",
   "scripts": {
     "start": "cd backend && npm start",
     "build": "cd frontend && npm run build"
